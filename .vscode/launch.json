@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.mammen.main.Main",
+            "projectName": "Motion_Profile_Generator"
+        }
+    ]
+}
